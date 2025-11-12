@@ -13,4 +13,7 @@
 ---
 ## 프로젝트
 ### Raspberry Pi 기반 Telegram Bot 자동응답 및 모니터링 시스템
+>**기술 스택**  
+Python3,Raspberry Pi (Linux / Raspberry Pi OS), 
 ### Burp suite 기반 금융권 모의해킹
+### 
