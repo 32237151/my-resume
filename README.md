@@ -61,3 +61,4 @@
 - Cisco Networking Academy – CyberOps 과정 이수
 ---
 ## 활동
+Opensource - https://github.com/32237151/FUSE-vulnerability-check/blob/main/README.md
